@@ -1,2 +1,5 @@
-# algoritmos-ordenamiento-recursivo
-Algoritmos de Ordenamiento Recursivos
+# Algoritmos de Ordenamiento Recursivos
+
+## Mergesort
+
+## Quicksort
